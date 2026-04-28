@@ -79,7 +79,7 @@ struct Nodo {
 * Requisitos
 Compilador de C++ (g++, clang++, o MSVC)
 
-Terminal o consola
+# Terminal o consola
 # 1. Compilar el programa
 g++ src/main.cpp -o arbol
 
