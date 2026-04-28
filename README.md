@@ -101,14 +101,14 @@ Para probar el árbol, inserte los empleados en el siguiente orden:
 |80	    |Emp 4	           |Hoja	        |Hoja         |
 
 #### Estructura esperada del árbol  #### 
-``
+````
               50 (Raíz)
            /      \
          30        70
         /  \      /  \
       20   40    60   80
    (Hoja)(Hoja)(Hoja)(Hoja)
-   
+````   
 ### Menú de Opciones ####
 
 ===== MENU PRINCIPAL =====
