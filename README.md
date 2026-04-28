@@ -59,7 +59,7 @@ arbol-bst-empresa-cpp/
 
 ````
 #### Estructuras principales ####
-*Empleado: Almacena la información de cada trabajador
+* Empleado: Almacena la información de cada trabajador
 ````
 struct Empleado {
     int codigo;      // Clave única para el BST
@@ -67,7 +67,7 @@ struct Empleado {
     string cargo;    // Cargo que ocupa
 };
 ````
-*Nodo: Representa cada elemento del árbol
+* Nodo: Representa cada elemento del árbol
 ````
 struct Nodo {
     Empleado dato;           // Información del empleado
@@ -76,7 +76,7 @@ struct Nodo {
 };
 ````
 #### Compilación y Ejecución ####
-*Requisitos
+* Requisitos
 Compilador de C++ (g++, clang++, o MSVC)
 
 Terminal o consola
