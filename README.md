@@ -76,14 +76,14 @@ struct Nodo {
 };
 ````
 #### Compilación y Ejecución ####
-* Requisitos
+# Requisitos
 Compilador de C++ (g++, clang++, o MSVC)
 
 # Terminal o consola
-# 1. Compilar el programa
+1. Compilar el programa
 g++ src/main.cpp -o arbol
 
-# 2. Ejecutar
+2. Ejecutar
 ./arbol          # En Linux/Mac
 arbol.exe        # En Windows
 
