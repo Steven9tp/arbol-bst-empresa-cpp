@@ -36,7 +36,7 @@ permitiendo una estructura jerárquica similar a un organigrama empresarial.
 
 
 ##  Estructura del Proyecto
-
+````
 arbol-bst-empresa-cpp/
 │
 ├── README.md # Este archivo
@@ -48,7 +48,7 @@ arbol-bst-empresa-cpp/
 ├── 03_busqueda.png
 ├── 04_recorridos.png
 └── 05_altura_hojas.png
-
+````
 
 ##  Código Fuente
 
